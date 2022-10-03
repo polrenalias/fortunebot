@@ -105,7 +105,8 @@ def ask_sign(update, context):
 
 # Function to inform the user of the bot usage        
 def help(update, context):
-    context.bot.send_message(update.message.chat_id, "- Initialize the bot with /start\n- Select the tarot reading and its theme with /tarot theme (Themes available: love, health, work)\n- Get your horoscope with /horoscope sign\n- Ask what's your astrological sign with /sign birth_month birth_day (ex: August 13)")
+	if started == True:
+    		context.bot.send_message(update.message.chat_id, "- Initialize the bot with /start\n- Select the tarot reading and its theme with /tarot theme (Themes available: love, health, work)\n- Get your horoscope with /horoscope sign\n- Ask what's your astrological sign with /sign birth_month birth_day (ex: August 13)")
 
 # Main code        
 def main():
