@@ -28,10 +28,10 @@ def get_tarot(update, context):
                 for num in card_selection:
                     if random.randint(0, 1) == 0:
                         media_group.append(InputMediaPhoto(open('good_cards/%d.jpg' % num, 'rb')))
-                        card_meaning += str(data["card_list"][num]["card_name"]+': '+data["card_list"][num]["straight_info"]["general"])
+                        card_meaning += str(data["card_list"][num]["card_name"]+': '+data["card_list"][num]["straight_info"][theme])
                     else:
                         media_group.append(InputMediaPhoto(open('bad_cards/%d.jpg' % num, 'rb'), caption = ''))
-                        card_meaning += str(data["card_list"][num]["card_name"]+': '+data["card_list"][num]["reverse_info"]["general"])
+                        card_meaning += str(data["card_list"][num]["card_name"]+': '+data["card_list"][num]["reverse_info"][theme])
                     card_meaning += '\n\n'
                 context.bot.send_media_group(update.message.chat_id, media = media_group)
                 context.bot.send_message(update.message.chat_id, card_meaning)
