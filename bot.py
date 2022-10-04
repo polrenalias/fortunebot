@@ -36,7 +36,7 @@ def get_tarot(update, context):
                 context.bot.send_media_group(update.message.chat_id, media = media_group)
                 context.bot.send_message(update.message.chat_id, card_meaning)
             else:
-                context.bot.send_message(update.message.chat_id, 'Your selection needs to match one of the following themes: love, money, work, family')
+                context.bot.send_message(update.message.chat_id, 'Your selection needs to match one of the following themes: general, work, love, finances, health, spirituality')
         elif len(context.args) == 0:
             context.bot.send_message(update.message.chat_id, 'Usage: /tarot theme')
         else:
@@ -114,7 +114,7 @@ def ask_sign(update, context):
 # Function to inform the user of the bot usage        
 def help(update, context):
     if started == True:
-        context.bot.send_message(update.message.chat_id, "- Initialize the bot with /start\n- Select the tarot reading and its theme with /tarot theme (Themes available: love, health, work)\n- Get your horoscope with /horoscope sign\n- Ask what's your astrological sign with /sign birth_month birth_day (ex: August 13)")
+        context.bot.send_message(update.message.chat_id, "- Initialize the bot with /start\n- Select the tarot reading and its theme with /tarot theme (Themes available: general, work, love, finances, health, spirituality)\n- Get your horoscope with /horoscope sign\n- Ask what's your astrological sign with /sign birth_month birth_day (ex: August 13)")
 
 # Main code        
 def main():
