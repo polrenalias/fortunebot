@@ -15,7 +15,7 @@ def start(update, context):
 # Function used to give the user its fortune via tarot card reading
 def get_tarot(update, context):
     global started
-    theme_list = ['general','work','love','finance','health','spirituality']
+    theme_list = ['general','work','love','finances','health','spirituality']
     card_meaning = ''
     if started == True:
         if len(context.args) == 1:
