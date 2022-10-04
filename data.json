@@ -1,42 +1,422 @@
-{    
+{
     "card_list": [
-        {
-            "card_name": "The Fool",
-            "straight_info": {
-                "general": "Novelty indicator; as well as purity and great energy. This card can indicate a new beginning with a deeper spiritual meaning, and is more related to a change of city or job, marriage or new partner.:Other people may not understand or support your new ideas and/or proposals, but if you know you are right, persist and try to help them understand where your reasoning and ideas come from.",
-                "work": "Other people may not understand or support your new ideas and/or proposals, but if you know you are right, persist and try to help them understand where your reasoning and ideas come from.",
-                "love": "You're not ready for a commitment yet, although others may be pushing for one, such as a partner who insists on getting married or trying cohabitation.",
-                "finance": "You can expect a raise if you work for a salary or increase your sales and earnings if you work for yourself. You will also find in yourself great strength and confidence, a knowledge that no matter what happens financially, you will be fine and you will reach the peak.",
-                "health": "If you have health problems, you will surely find the people and things you need to move towards a full recovery. Having a positive mindset is important and should come very easily. It also signals blood circulation problems and recommends resting and recuperating as much as you can.",
-                "spirituality": "you let go of a belief system that you previously held for a long time. You have a need to explore new ideas and concepts along paths less traveled. It can also mean that your spiritual journey is on hold for the time being, as you are preoccupied with physical and earthly matters."
-            },
-            "reverse_info": {
-                "general": "You have the need for a new beginning, but there are doubts about making it happen, so you will have a great resistance to start the process. You also act without thinking things through and without considering the consequences.",
-                "work": "You have an inability to carry out your projects and to carry out daily work, given your indecision to act. It can also mean work trips that are canceled or delayed longer than expected.",
-                "love": "Your desire for freedom and independence may be interfering with a loving relationship. The lack of plans and firm commitment could endanger the relationship. There is reluctance to limit the head, to marriage or cohabitation, to plan the arrival of children. The partner accuses you of instability due to eccentric behavior on your part, crazy ideas.",
-                "finance": "You have to pay special attention to what you sign, read the fine print of the contracts so as not to pay a high surprising cost later. Things are not as they appear on the surface, but there may be deceptions and scams against you or even, that come from you. You have to be careful in the way you manage your money since there is a risk of loss due to bad investments.",
-                "health": "You will be prone to accidents in the near future, especially in those related to sports or outdoor activities. If you suffer from any ailments, consider seeking other opinions or changing doctors.",
-                "spirituality": "You let go of a belief system that you previously held for a long time. You have a need to explore new ideas and concepts along paths less traveled. It can also mean that your spiritual journey is on hold for the time being, as you are preoccupied with physical and earthly matters."
-            }
+      {
+        "card_name": "The Fool",
+        "straight_info": {
+          "general": "Novelty indicator; as well as purity and great energy. This card can indicate a new beginning with a deeper spiritual meaning, and is more related to a change of city or job, marriage or new partner.",
+          "work": "Other people may not understand or support your new ideas and/or proposals, but if you know you are right, persist and try to help them understand where your reasoning and ideas come from.",
+          "love": "You're not ready for a commitment yet, although others may be pushing for one, such as a partner who insists on getting married or trying cohabitation.",
+          "finances": "You can expect a raise if you are employed or increase your sales and earnings if you are self-employed. You will also find in yourself great strength and confidence, a knowing that no matter what happens financially, you will be fine and you will reach the peak.",
+          "health": "If you have health problems, you will surely find the people and things you need to move towards a full recovery. Having a positive mindset is important and should come very easily. It also signals blood circulation problems and recommends resting and recuperating as much as you can.",
+          "spirituality": "Need to try many things focused on spirituality to see how you fit into each of them. It also indicates a powerful need to gain deeper knowledge about spirituality, and your friends or family will not understand."
         },
-        {
-            "card_name": "The Fool",
-            "straight_info": {
-                "general": "You have the need for a new beginning, but there are doubts about making it happen, so you will have a great resistance to start the process. You also act without thinking things through and without considering the consequences.",
-                "work": "You have an inability to carry out your projects and to carry out daily work, given your indecision to act. It can also mean work trips that are canceled or delayed longer than expected.",
-                "love": "Your desire for freedom and independence may be interfering with a loving relationship. The lack of plans and firm commitment could endanger the relationship. There is reluctance to limit the head, to marriage or cohabitation, to plan the arrival of children. The partner accuses you of instability due to eccentric behavior on your part, crazy ideas.",
-                "finance": "You have to pay special attention to what you sign, read the fine print of the contracts so as not to pay a high surprising cost later. Things are not as they appear on the surface, but there may be deceptions and scams against you or even, that come from you. You have to be careful in the way you manage your money since there is a risk of loss due to bad investments.",
-                "health": "You will be prone to accidents in the near future, especially in those related to sports or outdoor activities. If you suffer from any ailments, consider seeking other opinions or changing doctors.",
-                "spirituality": "You let go of a belief system that you previously held for a long time. You have a need to explore new ideas and concepts along paths less traveled. It can also mean that your spiritual journey is on hold for the time being, as you are preoccupied with physical and earthly matters."
-            },
-            "reverse_info": {
-                "general": "You have the need for a new beginning, but there are doubts about making it happen, so you will have a great resistance to start the process. You also act without thinking things through and without considering the consequences.",
-                "work": "You have an inability to carry out your projects and to carry out daily work, given your indecision to act. It can also mean work trips that are canceled or delayed longer than expected.",
-                "love": "Your desire for freedom and independence may be interfering with a loving relationship. The lack of plans and firm commitment could endanger the relationship. There is reluctance to limit the head, to marriage or cohabitation, to plan the arrival of children. The partner accuses you of instability due to eccentric behavior on your part, crazy ideas.",
-                "finance": "You have to pay special attention to what you sign, read the fine print of the contracts so as not to pay a high surprising cost later. Things are not as they appear on the surface, but there may be deceptions and scams against you or even, that come from you. You have to be careful in the way you manage your money since there is a risk of loss due to bad investments.",
-                "health": "You will be prone to accidents in the near future, especially in those related to sports or outdoor activities. If you suffer from any ailments, consider seeking other opinions or changing doctors.",
-                "spirituality": "You let go of a belief system that you previously held for a long time. You have a need to explore new ideas and concepts along paths less traveled. It can also mean that your spiritual journey is on hold for the time being, as you are preoccupied with physical and earthly matters."
-            }
+        "reverse_info": {
+          "general": "You have a need for a new beginning, but there are doubts about making it happen, so you will have great resistance to starting the process. You also act without thinking things through and without considering the consequences.",
+          "work": "You have an inability to carry out your projects and to carry out daily work, given your indecision to act. It can also mean work trips that are cancelled or delayed longer than expected.",
+          "love": "Your desire for freedom and independence may be interfering with a love relationship. The lack of plans and firm commitment could endanger the relationship. There is reluctance to limit the head, to marriage or cohabitation, to plan the arrival of children. The partner accuses you of instability due to eccentric behaviour on your part, crazy ideas.",
+          "finances": "You have to pay special attention to what you sign, read the fine print of the contracts so as not to pay a high surprising cost later. Things are not as they appear on the surface, but there may be deceptions and scams against you or even, that come from you. You have to be careful in the way you manage your money because there is a risk of loss due to bad investments.",
+          "health": "You will be prone to accidents in the near future, especially in those related to sports or outdoor activities. If you suffer from any ailments, consider seeking other opinions or changing doctors.",
+          "spirituality": "You let go of a belief system that you previously held for a long time. You have a need to explore new ideas and concepts along paths less traveled. It can also mean that your spiritual journey is on hold for the time being, as you are preoccupied with physical and earthly matters."
         }
+      },
+      {
+        "card_name": "The Wizard",
+        "straight_info": {
+          "general": "Your creativity, interest and willpower are at their peak, given to the service of your desires. It also means a new beginning and great expectations.",
+          "work": "There will be an improvement in your work life, career, profession or commercial activity. Major successes in your profession or improvements in your business. Perfect time to ask for a raise.",
+          "love": "If you are available or looking for romance, this is a time when you will most likely meet someone. If you're in a long-term relationship, it will rise to new, deeper levels of commitment and enjoyment.",
+          "finances": "Money begins to expand. If it is an idea, the opportunity will be great to carry it out, having faith in yourself and your abilities. The money will come through a raise, new clients, more sales, or a great idea.",
+          "health": "If you have been feeling bad, the problems will end soon so you will regain your strength. If you have any health problems at the moment, you can expect many improvements.",
+          "spirituality": "A good time to take up a spiritual study that you have been interested in in the past, but have not had the opportunity to pursue. A spiritual teacher may appear in your life, he will be your mentor and help you get a new chance at life."
+        },
+        "reverse_info": {
+          "general": "signals manipulation, latent or dormant talents that are not developed, poor planning. You deeply doubt your skills and knowledge, you have lost faith in yourself and your abilities. You can be confused, impatient and let yourself be seduced by the shortest and easiest paths that do not require much effort.",
+          "work": "resistance to change in your working life. Don't hold on to the past, old successes, don't rest on your laurels and examine your attitude well because you can become dishonest to achieve a goal.",
+          "love": "You're losing steam in finding, attracting and keeping new love if you're single. If you're in a committed relationship, it's time to talk about what you really want and need (infidelities, changes in partner roles, impossibility for the relationship to work).",
+          "finances": "You feel powerless and stuck with the financial issue. The truth is that you can make changes and improve your luck in life. It's time to reflect, spend less, invest wisely and wisely.",
+          "health": "Take good care of yourself and seek a health opinion if you need one. You believe in the body's ability to heal itself, and you have to pay special attention to stress and its impact on the digestive system.",
+          "spirituality": "You have a need for new experiences and perspectives that move you out of your spiritual comfort zone. You need a change, open your mind and feel new airs."
+        }
+      },
+      {
+        "card_name": "The Priestess",
+        "straight_info": {
+          "general": "It is a time to trust your intuition and inner knowing rather than your rational mind or conscious intellect.",
+          "work": "There may be a pleasant surprise on the work front, such as career advancements, promotions, and even a new job opportunity.",
+          "love": "You can reach a man/woman who is distant and unapproachable. It's possible that you have extra charm and that there are people you didn't imagine who want to get close to you.",
+          "finances": "Someone can be completely dishonest with you financially, and even if you don't have all the information, don't be afraid to dig deep and do your own research. Be sure to give only the information that is needed if it is a financial transaction.",
+          "health": "Possibility of getting pregnant. You may receive information about your health that has not yet come to light, and if you feel that something is wrong with your body, believe in your concerns and take care of yourself, and you may need a professional in the healthcare field.",
+          "spirituality": "Talk to people who have had different experiences and beliefs. Get out of your comfort zone without fear."
+        },
+        "reverse_info": {
+          "general": "Hidden agendas, buried plans, veiled attitude, requires listening to your inner voice. You may be having difficulty listening to your intuition. If so, it's a sign of calm to reassure you, spend time meditating and alone.",
+          "work": "Things may be going on behind your back that you don't know about, whether it directly involves you or not. Do not trust or take for granted what your supervisors or co-workers say, as it is not the whole truth.",
+          "love": "The attraction and magnetism remains, but you're not quite sure. If a decision has to be made, take action but very carefully. If you find yourself in a crisis, try to be measured and appeal to your intuition, any excessive act could lead to breaks or difficult situations to overcome.",
+          "finances": "Be careful what you sign, don't hesitate to get more information and advice when it comes to major transactions you may be considering. Not everything is what it seems, so take care of your savings, don't waste and keep an eye on the fine print.",
+          "health": "You still can't have all the information you need and it's not necessary to accept the first option they give you. It also indicates difficulties in conceiving or problems in carrying out a pregnancy, given that it is linked to motherhood. If you're trying now, it's not a good time and you should consider putting it off for later.",
+          "spirituality": "You are closed to the messages of your inner voice, you don't receive or you don't want to receive what your unconscious interior wants you to see. You may be dreaming dreams with a lot of meaning and you should pay attention to it, since it is the mechanism that our deep psyche finds to let us know things."
+        }
+      },
+      {
+        "card_name": "The Empress",
+        "straight_info": {
+          "general": "Need to be in touch with your feminine side, to listen to your intuition and prioritize your emotions and passions. People will be more drawn to you than usual and you may find people at your door looking for advice or needing your shoulder to cry on.",
+          "work": "Things are going very well. People will feel inspired by your ideas, passions and way of doing things. Let your inner voice guide you in how to do things.",
+          "love": "Powerful time for love, men and women may be finding you more attractive (both in terms of friendship and love). If you are single, this is a time when true love could come your way. If you are in a relationship, it will become sweeter.",
+          "finances": "Excellent time to make investments, follow your instincts. The money must be flowing very well. Make sure you keep the flow going in a good way and you may be drawn to giving money to a cause.",
+          "health": "If you're trying to get pregnant, it's the perfect time, but if you don't want to be, take extreme care and precautions so you don't get pregnant. It also indicates very good health or excellent recovery from an illness, with great physical and mental strength.",
+          "spirituality": "It will be important to listen to your intuition and if it requires spending time alone, even if there are others who need you, your time should be a priority."
+        },
+        "reverse_info": {
+          "general": "You are unaware that something is missing in your life. There is a loss of personal power, you feel questioned. You are neglecting your feminine energy and part, leaning towards a masculine part.",
+          "work": "Your work is well received and appreciated, but you are not aware of it. You have to believe in yourself and your potential and abilities, as other people in your work environment trust you.",
+          "love": "You may find yourself pursued by various potential lovers. If you are in a relationship, you have doubts about it or you don't feel valued enough, even to the point of acting to make the other person happy, neglecting your own needs.",
+          "finances": "You are in an abundant universe and you just have to do your part in the best possible way, thinking and trusting that you will receive the best in return. Doing numbers and calculations will only give you a status report. If situations appear that seem perfect, be careful because there could be a scam behind it.",
+          "health": "You are at a time when you don't want to pay attention to the signals or listen to your inner voice, so you could go through some problems that could have been successfully avoided if you had paid attention.",
+          "spirituality": "Women have a lot to offer. Pay special attention to what the women in your life have to say and their ideas about spirituality. Feminine energy will benefit you regardless of your gender."
+        }
+      },
+      {
+        "card_name": "The Emperor",
+        "straight_info": {
+          "general": "It suggests stability, the enjoyment of material achievements, social position and fortune. It shows us the dominance of the mind over the heart, the rational over the passionate.",
+          "work": "The work must be good and your effort will not go unnoticed. Pay particular attention to organization, to the way you keep track of things using primarily your powerful logic.",
+          "love": "You are in a relationship where the material and the sexual plane is stronger and more defined than the plane of emotions and feelings. If you're not in a relationship, there's someone out there who might be attracted to the order, logic, and organization you display.",
+          "finances": "There will be success in the field of finance and business, there may be a middle inheritance and if you are involved in a legal trial, you will emerge victorious.",
+          "health": "Time of great vitality and strength. You have to believe in your right to good health, and analyze logically what you are doing to your body.",
+          "spirituality": "Make sure you take time for yourself in order to meet your spiritual growth needs. While you are focused on the aspects of the left hemisphere of your brain (logic, reason, order), allow it to also focus on the right hemisphere."
+        },
+        "reverse_info": {
+          "general": "represents domination, excessive control, despotic attitudes, rigidity and inflexibility. It means we are giving our heart more credit than our logical mind is telling us.",
+          "work": "at work you can feel a loss of power, even reaching abusive attitudes, moving out of interest and encountering a lot of opposition in the environment. It might be time to surround yourself with a loyal team that will follow your lead but make you see your mistakes as irrefutable facts.",
+          "love": "big doubts you have at the moment about how to act, whether you should or not. Organization issues can be quite a problem in the relationship, both due to excess of it and lack of it.",
+          "finances": "If you are currently struggling with finances, you may need to seek help as you cannot afford to take a haphazard approach. There are expenses at home that seem to never end and get out of control.",
+          "health": "You may be prone to some accidents involving the upper or lower limbs. You are not disciplined at this time to diet or break bad habits.",
+          "spirituality": "A helpful spiritual advisor will appear or you need, but you must be cautious about accepting the advice of a guru, as no human being is perfect, and it is important to listen to your inner thoughts and intuition."
+        }
+      },
+      {
+        "card_name": "The Hierophant",
+        "straight_info": {
+          "general": "You may be struggling with a problem and are not sure what is the right thing to do to resolve the situation.",
+          "work": "It is possible that a teacher or mentor of some kind that you have been needing will appear in your life now, or that you yourself could be called to be someone else's teacher or mentor.",
+          "love": "Romance is good for you, but in a fairly traditional way. It also means that it is not time to take the opposite of what is established.",
+          "finances": "Time to play by the rules and stay down to earth, guide you through the normal and traditional ways of handling your money. Seek advice from experts and professional money managers.",
+          "health": "If you have health problems, discipline, order and commitment will be critical to bringing about healing.",
+          "spirituality": "You are now very concerned with spirituality. Take regular time to calm down and allow your spirit to have that break through contemplation, meditation or religious prayer."
+        },
+        "reverse_info": {
+          "general": "It means restriction, temptations, established defiance, to the rules and the status quo.",
+          "work": "dissatisfaction or disagreements with work, with the authorities, with colleagues, as well as with partners or advisers who may be working together with you.",
+          "love": "a situation where fatigue exists and you may have the desire to break out of your usual routines and roles, either with minimal changes that disrupt the routine or with drastic changes such as a parallel relationship.",
+          "finances": "You are trying to try new things, taking risks and trying to go against the traditional and possibly be a mistake.",
+          "health": "The digestive system can present some problems and it is also not a good time to carry out a pregnancy. By signaling disorders in the digestive system, you may have to make changes in your eating habits, to gain health and well-being.",
+          "spirituality": "You should care more about your spirituality. Being a phase of rebellion and opposition, you may not be ready to act in groups."
+        }
+      },
+      {
+        "card_name": "The Lovers",
+        "straight_info": {
+          "general": "represents union, relationships, similarities and communion of values, options.",
+          "work": "Sales will increase and will always be positive. It is very possible to do business or work with family members, friends or with your own partner.",
+          "love": "life as a couple becomes solid, strengthens and consolidates. If you don't have a partner, it heralds the arrival of a passionate, romantic relationship with a strong sensual content.",
+          "finances": "good time for business and economic investments, but they can be short-term, of temporary or not very great benefit.",
+          "health": "Romance involves physical wear and tear, so it's important to pay attention to being well covered in foods rich in vitamins and minerals. A balanced diet is essential, but with few extra protein calories.",
+          "spirituality": "Time of a very intense, passionate inner life, full of dreams and illusions. You are willing and open to confront your spiritual side, make the changes and improvements you need to make."
+        },
+        "reverse_info": {
+          "general": "lack of harmony, imbalance, misalignment of values and feelings.",
+          "work": "strong jealousies in the workplace, also disagreements or disputes, especially if the business is with the partner or relatives.",
+          "love": "crisis with the partner, possible passivity and apathy. A bad stage that can be overcome. If you are not in a relationship, this indicates occasional encounters, mostly sensual.",
+          "finances": "expenses must be controlled very well and always have a reserve as there may be unforeseen things that pop up and need to be taken care of.",
+          "health": "love usually leads to excesses, so you may need a diet, at least maintenance.",
+          "spirituality": "If you're not careful, you might fall in love with a person who is currently your mentor."
+        }
+      },
+      {
+        "card_name": "The Chariot",
+        "straight_info": {
+          "general": "Represents strength, will, victory, affirmation, determination and decision, success, power, travel, travel, moving, etc.",
+          "work": "You have strength to work, both physical and psychological, and the more you push and will, the more you will achieve.",
+          "love": "You may be tempted to want to go too far, too fast, and/or someone is pushing you that way.",
+          "finances": "Increases of all kinds, not only salary, but also windfalls, even from previous debts. Your efforts will be rewarded financially.",
+          "health": "good health, great vitality and dynamism. You have or will have positive and intense forces.",
+          "spirituality": "You may travel to places that can help you increase your spiritual awareness and you will learn topics about spirituality very easily."
+        },
+        "reverse_info": {
+          "general": "lack of control and direction, aggression and uncertainty.",
+          "work": "You have lost objectivity and direction, you have less strength and drive, you work out of inertia.",
+          "love": "If you have a partner, it indicates a stagnant relationship, ideas and projects are lacking, so you have to start acting to get out of the hole. If you're not in a relationship but you're thinking about it, you're not on the right track, you're off track.",
+          "finances": "You waste your money and unexpected expenses arise that disrupt the planned economy.",
+          "health": "danger of relapsing or receiving illnesses that were not properly treated before and must now be controlled so that they do not become chronic.",
+          "spirituality": "You need spirituality, but mostly from yourself. Look for the answers inside you, trust yourself."
+        }
+      },
+      {
+        "card_name": "Power",
+        "straight_info": {
+          "general": "strength, courage, patience, control and compassion.",
+          "work": "Work is good for you, and if you're looking for one, you know you have the means and skill set to find it.",
+          "love": "You're going through a good time. If you are committed, it is very likely to be strong and beneficial.",
+          "finances": "Time for bonds and profitable income. Luck is on your side and investments of all kinds are recommended, as they will be successful.",
+          "health": "You are full of vitality and energy. If you are planning to have surgery, it is the perfect time to do it since your strength will allow you to have a quick recovery.",
+          "spirituality": "You're likely in a very spiritual time yourself, even if you don't have any religious beliefs."
+        },
+        "reverse_info": {
+          "general": "weak physical and mental attitude, insecurity, lack of self-discipline and will.",
+          "work": "Not much progress at work. Ideas do not appear, you have great apathy, a feeling of tiredness, boredom and dissatisfaction.",
+          "love": "The partner or relationship may be in great stability, but the future and life together are being doubted.",
+          "finances": "bad luck, unexpected and perhaps large expenses. There is a possibility of being cheated on your good will.",
+          "health": "You are not fit. You may be very weak or very exhausted due to stress. Neither major treatments nor operations are advisable, unless they are strictly necessary.",
+          "spirituality": "You have the strength within you and you go much further than you know or can imagine."
+        }
+      },
+      {
+        "card_name": "The Hermit",
+        "straight_info": {
+          "general": "Examination of conscience, introspection, solitude as self-knowledge, inner guidance.",
+          "work": "Labour relations, the social part, are stagnant or are not a priority or necessary.",
+          "love": "A past love may return. Love relationships are not a high priority for you right now.",
+          "finances": "Time to be conservative when it comes to financial transactions and decisions, even if money doesn't seem to be your highest priority.",
+          "health": "Warns about precautions and care. As it is a spiritual letter, all illness must be seen from this point of view.",
+          "spirituality": "It is very likely that a person will come into your life as a mentor, even if he/she does not directly teach you. You still have to learn at different levels."
+        },
+        "reverse_info": {
+          "general": "Isolation, loneliness, withdrawal, distancing from people or the social.",
+          "work": "You may finally get to the heart of some work issues that have been worrying you and/or have been unclear.",
+          "love": "symbolizes possible breaks because dialogue may not exist or may not be possible.",
+          "finances": "Get the right advice and analysis of your financial endeavours. This is no time to fly blind and assume everything will work out.",
+          "health": "everything related to the intellect, memory, mental exercise is scattered and without much attention.",
+          "spirituality": "You may have been spending too much time on your own for your spiritual benefit."
+        }
+      },
+      {
+        "card_name": "The Wheel Of Fortune",
+        "straight_info": {
+          "general": "good luck, karma, life cycles, fate, a turning point.",
+          "work": "It's time to ask questions and rethink things at work. It's time for changes and they will come even if you don't want them.",
+          "love": "If you are in a relationship, there will be changes and they will be positive. If you are alone, people will appear who will change your life in a passionate and very intense way.",
+          "finances": "Your financial circumstances will change for the better soon. It also indicates unbeatable moments of winning in the game, strokes of good luck and fortune.",
+          "health": "You have a lot of energy and vitality, and your will to live is full.",
+          "spirituality": "It is important to be aware that in almost all cases, we make a contribution in some way to what is happening in our lives."
+        },
+        "reverse_info": {
+          "general": "Periods of bad luck, external negative forces, being out of one's control.",
+          "work": "Changes are coming to work, surely surprising and unexpected.",
+          "love": "There is a lot of confusion right now, both of ideas and feelings. There may be third parties in the relationship who are causing harm to the couple.",
+          "finances": "Attempting any kind of random move will only waste your time and money. You must stop spending and do not get into debt of any kind, even if they are insignificant.",
+          "health": "If you come from an illness or disease, there is a chance that you will relapse. Take care of the digestive system, since the bad situation you live in can cause you to have ulcers, vomiting, gastric and intestinal discomfort.",
+          "spirituality": "Don't allow yourself to wallow in the feeling of being cheated or robbed. Life isn't fair. It never has been."
+        }
+      },
+      {
+        "card_name": "Justice",
+        "straight_info": {
+          "general": "Balance, justice, truth, cause and effect, law and rules, equitable, honesty.",
+          "work": "Optimal time for associations of all kinds. If you are looking for people to collaborate or one or more partners for your business, you will surely get them.",
+          "love": "Right time for any relationship to be established, overcome conflicts and problems and move forward.",
+          "finances": "All those long-term investments will be safe and profitable. Random games can give you a nice surprise.",
+          "health": "There are practically no drawbacks of any kind, everything works in perfect balance.",
+          "spirituality": "Time to work on your being connect to the earth. Work on keeping perspective on life to keep you focused."
+        },
+        "reverse_info": {
+          "general": "Injustice, unaccountability, dishonesty, immorality.",
+          "work": "You may notice now or in the future that you are treated unfairly at work. There are relationship problems or disharmony between your colleagues, bosses or staff in charge.",
+          "love": "There may be serious rethinking of the relationship. There is the possibility of strong interference from third parties that will complicate things, such as a family member or close friend.",
+          "finances": "Old debts will come to light and go unclaimed. If some legal error is expected about your money, it is most likely that it will take longer than you expected or that the result will not be favourable.",
+          "health": "all those plans and ideas to take care of yourself, it's time to put them into practice. Be responsible for yourself and take care of yourself.",
+          "spirituality": "No matter what you're going through in life, it's a good time to work on being centred and grounded."
+        }
+      },
+      {
+        "card_name": "The Hanged Man",
+        "straight_info": {
+          "general": "To be suspended, postponement of plans and goals, restriction, let go, sacrifice.",
+          "work": "You have to raise your self-esteem and worth. The sacrifices you make for work, the company, do not pay off as you would like.",
+          "love": "The relationship is on a dead end, everything is still. It can be a relationship in which one or both of you do not know where to stand, or if the relationship is on the right track.",
+          "finances": "saving is a priority, given that there may be expenses that were not planned.",
+          "health": "You abandon your health, you don't take care of yourself, it could even indicate a major depression, based on the lack of self-esteem and the little value you give yourself.",
+          "spirituality": "You must stop costing any negative belief, all self-limitation. You have to be careful what you allow yourself to say or think about life."
+        },
+        "reverse_info": {
+          "general": "martyr attitude, indecision, self-immolation, delay.",
+          "work": "There can be in the worst case a dismissal, although you may be the one who wants a rethink, you decide to hit the wheel and go down new paths.",
+          "love": "one or many intense relationships, the ones that make a difference, but are short-lived. Enjoy the moment, given that it will be very rich in experiences and emotions.",
+          "finances": "significant losses of money and in the worst cases, ruin.",
+          "health": "You have to be very attentive to accidents of all kinds, from a simple domestic accident to more complicated things.",
+          "spirituality": "Old messages you received as a child may come back to haunt you. The things recorded in your unconscious, manifest."
+        }
+      },
+      {
+        "card_name": "Death",
+        "straight_info": {
+          "general": "beginnings or beginnings of things, change, transformation, transition and end of cycles.",
+          "work": "Favourable changes are coming, new ideas, fresh and bright.",
+          "love": "If you are in a relationship, there will be favourable changes. If you are waiting for love, it will come. A great romance can appear with the prospect of being a great love.",
+          "finances": "Luck can appear like a ray of light, chance can give you an extraordinary surprise as inheritances and unexpected money gains can appear.",
+          "health": "You recover or heal from an illness, you have strength and vitality, there are improvements if you have serious ailments or long-term acute illnesses.",
+          "spirituality": "Cultivating a positive attitude is key. You need to understand that the changes will be in your favour, so try not to oppose or resist them."
+        },
+        "reverse_info": {
+          "general": "Change is still manifesting, but you apply resistance, so it complicates things.",
+          "work": "You want to change jobs, you have to innovate, generate new ideas, think in a different way.",
+          "love": "breakups, deceptions or infidelities. Attitudes in your partner suddenly change or you yourself begin to witness an unexpected change.",
+          "finances": "You can suffer money expenses due to bad decisions or just plain bad luck.",
+          "health": "It does not indicate your or anyone else's death, but you must pay attention to health. Problems you didn't worry about can become complicated if you don't treat them in time, and if you find yourself in recovery from an illness, it will be slow and painful.",
+          "spirituality": "You can keep a positive attitude, but you have to try to maintain it and fall into pain and negativity. You also need to separate yourself from everything that pushes you to depression and sadness."
+        }
+      },
+      {
+        "card_name": "Temperance",
+        "straight_info": {
+          "general": "To be in balance, moderation, patience, purpose.",
+          "work": "all associations are very good. Work will be stable and relationships pleasant.",
+          "love": "Need to be together, spend life as a couple, you support yourself with your partner and vice versa.",
+          "finances": "You will have financial stability. Self-control makes your expenses in order and you save.",
+          "health": "You will find a new energy, a vital flow that will renew you. You have a time of tranquillity and good health, given that you are emotionally balanced.",
+          "spirituality": "Important time to meditate and listen to your inner voice for guidance, and if necessary, ask for help."
+        },
+        "reverse_info": {
+          "general": "Imbalance, lack of long-term vision.",
+          "work": "It's time for problems. It is quite possible that there is a woman who is a negative influence, such as your boss, co-worker, etc.",
+          "love": "Arguments and disagreements are coming, probably long-standing.",
+          "finances": "There is the possibility of a salary increase or of earning money through other sources.",
+          "health": "Your digestive system can present disturbances and problems due to your nerves and stress.",
+          "spirituality": "You can benefit greatly by seeking out people who are on or on a path to spiritual growth."
+        }
+      },
+      {
+        "card_name": "The Devil",
+        "straight_info": {
+          "general": "masochistic suffering, addiction, sensual passion, materialism.",
+          "work": "You are intense in your work, you are committed and you have passion for what you do. It can indicate cunning to defy something or do business.",
+          "love": "If the partner or love situation is marked by passion, lust or sensuality, the romantic content of the relationship is poor, the emotions are superficial, bodily, but not internal.",
+          "finances": "good time to make investments of any kind, negotiate contracts, agreements, pacts, laws and working conditions, BUT not everything is rosy, given that they can turn out either very well or very badly.",
+          "health": "shows regeneration, attitude, healing, recovery from illness, ailments, post-operations. You must pay attention to the genitals, take care of the health of the reproductive system, avoid relationships that are not safe.",
+          "spirituality": "You must maintain a positive mindset. Positive affirmations are important and will benefit you. Take a look to see who is around you."
+        },
+        "reverse_info": {
+          "general": "detachment, breaking of moulds, positive energy that is released, regenerated forces.",
+          "work": "advises not to innovate, it is not a good time to make job changes or try your luck with new things.",
+          "love": "Love passion is falling, there may be major romantic disappointments.",
+          "finances": "scams, it is not advisable to make investments, lend money or ask for credit. You will be cautious and even distrustful, even of the closest people.",
+          "health": "deteriorations and relapses. Possibility of suffering from some disorder of a sensual nature, as well as venereal diseases.",
+          "spirituality": "Your positive attitude and mindset is still very important, especially if you're having a hard time maintaining it, given who you surround yourself with and who your friends are."
+        }
+      },
+      {
+        "card_name": "The Tower",
+        "straight_info": {
+          "general": "Internal turmoil, change, revelations.",
+          "work": "You must be extremely careful, not make mistakes, do your best, not question the authorities or enter into conflicts with colleagues.",
+          "love": "relationship endings, breakups, divorces. Even if it does not come to separation, there are many doubts.",
+          "finances": "It is not a good time for risky investments, gambling or thinking that you can save yourself with the lottery. You have to take care of your savings as much as possible until better times come.",
+          "health": "You have to take care of stress and nerves, as they can become critical. You may be literally on the verge of a nervous breakdown if you don't try to focus or relax.",
+          "spirituality": "good time to maintain a positive attitude as much as possible. New interpretations and viewpoints may come to you suddenly."
+        },
+        "reverse_info": {
+          "general": "Changes you are trying to avoid or are delaying.",
+          "work": "Complications of lesser impact, but the questions still remain. You may go through a stage of depression or anger because of your job.",
+          "love": "Breakups and hard times, but much less severe. Things are not so violent and the rethinking so extreme. It can get better through dialogue and communication.",
+          "finances": "Unexpected and high expenses may arise due to family or children.",
+          "health": "You are going through a moment of confusion, so it is important that you stay in control, paying attention and care to what you do to avoid accidents.",
+          "spirituality": "Good time to keep a positive attitude as much as possible, regardless of what's going on."
+        }
+      },
+      {
+        "card_name": "The Star",
+        "straight_info": {
+          "general": "Symbolizes hope, spirituality, inner renewal, inspiration and serenity.",
+          "work": "Possibilities of promotion in the activity or professional growth. You are dedicated to the whole, with commitment, turning over your creativity.",
+          "love": "It's an incredible moment. If you are alone, great love can appear. If you are in a relationship, it announces good times, great understanding, communication and understanding.",
+          "finances": "Luck is on your side. You can be lucky in games and chance. Money comes to you with an important change, such as a salary increase, a good business, the growth of the company...",
+          "health": "It is a time of good health and vitality, your mind rests and has peace, as well as great strength for any kind of challenge.",
+          "spirituality": "You are in touch with spirituality now that it can't seem to fit inside you. You have a need to reach out to others, to share, come together, understand and listen."
+        },
+        "reverse_info": {
+          "general": "lack of hope, despair, despondency, low spirits, sadness.",
+          "work": "announces delays and doubts. You have to put more effort into your work, your studies and mainly in your relationships at work.",
+          "love": "dialogue must return and you must be able to show who you are, open up, let them know you. Bring back the tenderness and romantic moments.",
+          "finances": "spending time. You don't have to play because luck is not on your side. There may be expenses related to your or a family member's health.",
+          "health": "Worry dominates you. You may be procrastinating doing things, feeling sick, but that's just somatization. You create your own hell.",
+          "spirituality": "You have to regain confidence in yourself and the lost faith, as well as understand that heaven is not against you, but what happens is a natural cycle."
+        }
+      },
+      {
+        "card_name": "The Moon",
+        "straight_info": {
+          "general": "Illusion and fear, anxiety, insecurity, subconscious, what is in our dark part.",
+          "work": "Time for serious rethinking, or at best you are fooling yourself into thinking that this work will give you more than it will in reality.",
+          "love": "There will be romantic moments with a lot of sensuality, but there will not be too much commitment. Romance is prioritized but not commitment to it.",
+          "finances": "This is not the time to make hasty or drastic decisions. Take care of savings, do not make investments that may seem brilliant.",
+          "health": "You may have problems with your reproductive system. When in doubt, ask, because your intuition about what you have or think you have can be misleading.",
+          "spirituality": "very spiritual and good time to get important reflections. It is a time of openness, but also of confusion."
+        },
+        "reverse_info": {
+          "general": "liberation from fear, overcoming sadness, resolution of confusion.",
+          "work": "There is a high possibility of job changes as you have been encouraged to do something else, to follow your vocation and possibly because your current job has worn you out.",
+          "love": "Problems due to strong insecurities, because there is confusion in feelings, because everything is dual and ambiguous. There may be reasons for breaks.",
+          "finances": "You have to be very careful, the worst part may have passed, but you still have to be careful, try to save, avoid unnecessary expenses.",
+          "health": "You have to take special care of depression. It can be caused by big changes or transformation. Discomfort can be due to the tension at work, insecurity or the conflicting situation with the partner or family.",
+          "spirituality": "Spiritually this is a great time for you. You have defined yourself in one or several aspects of your life, you have regained confidence in yourself, with your intuition and inner voice."
+        }
+      },
+      {
+        "card_name": "The Sun",
+        "straight_info": {
+          "general": "fun, warmth in attitude and emotion, success, positivity and vitality, happiness, purity, unions.",
+          "work": "Ideal time for everything, be it finding a job, pretending you already have one, setting up new businesses, opening branches.",
+          "love": "announces all kinds of well-being and happiness (marriages, unions, living together, lots of love and lots of sexuality). If you are alone, you will find your love.",
+          "finances": "Money has come early and fast. Everything that seemed impossible to collect was collected. There may be inheritances and the arrival of extra money from unexpected things.",
+          "health": "Your vitality leads you down a path of well-being. There is recovery and healing of ailments, notable improvements in illnesses or their complete absence.",
+          "spirituality": "You understand the meaning of things, the functioning of the world and of beings, you long for and perceive the truth."
+        },
+        "reverse_info": {
+          "general": "feeling of lack, temporary depression, momentary absence of success.",
+          "work": "You are disorganized and scattered. There is no clarity of ideas if any appear.",
+          "love": "Problems, arguments and in some situations, breakups. If you are alone, finding someone may be slow.",
+          "finances": "It is better to save and be prudent, avoid expenses that are not necessary.",
+          "health": "You are low on vitality and need to regain it. It may be indicative of some vision problems, make a consultation if necessary.",
+          "spirituality": "You know that there is an abundance of beauty, joy and happiness in this life, if you are looking for enough and in the right places."
+        }
+      },
+      {
+        "card_name": "Judgement",
+        "straight_info": {
+          "general": "clarity of judgement, rebirth, inner calling, absolution and forgiveness of yourself and third parties.",
+          "work": "all your efforts will be appreciated. Everything you can do more will be well received and the judgement will be favourable and will have an impact on labour improvements.",
+          "love": "You are or will be living an extraordinary time. If you are in a couple, harmony and understanding will be the guide. If you are alone, it indicates the arrival of a new love as the reappearance of old loves.",
+          "finances": "There can be lucky strikes, not millionaire sums, but extra money. Things regarding money should go well, without shocks.",
+          "health": "It is advised to take care of the joints of the upper and lower limbs, especially the knees and wrists.",
+          "spirituality": "You can find yourself exploring ideas and spiritual orientations that you never thought would be of interest to you in the slightest."
+        },
+        "reverse_info": {
+          "general": "deep self-esteem conflict.",
+          "work": "Things are not on your side now. There may be dismissals, negative resolutions, judicial reversals.",
+          "love": "bad times are coming in your love life, there are arguments, but what's more is self-doubt and introspection.",
+          "finances": "You must make correct, well-thought-out and mature decisions. It is possible that you are afraid to spend, invest or buy, since your insecurity makes you doubt tomorrow.",
+          "health": "extreme care and controls. There can be more than anything mental and emotional weakening, depression, insomnia, due to your insecurity and lack of self-esteem.",
+          "spirituality": "deep moment of inner awareness. You must forgive, take all the wonderful things you have done, your achievements, and hold on to them to gain confidence and self-esteem."
+        }
+      },
+      {
+        "card_name": "The World",
+        "straight_info": {
+          "general": "completion of processes, integration with people and places of life, realization, trips.",
+          "work": "They leave recognition for you, progress and profit.",
+          "love": "all kinds of engagements and unions, weddings and celebrations, the conception or birth of a child are coming. Love will be frank and intense, feeling loved, cared for.",
+          "finances": "Ideal time to make or strengthen investments, much more so if they are abroad.",
+          "health": "optimal auguries, great fullness, energy and vitality. Any problem you come up with will improve or be cured.",
+          "spirituality": "moment of spiritual growth. Your contact with other types of beliefs and points of view, cultures and customs, will have a strong impact on you."
+        },
+        "reverse_info": {
+          "general": "lack of fulfilment, lack of closure in all aspects, indecision, feeling that the world or life owes you something.",
+          "work": "It's not a good time to change jobs, to take risks, to venture out. There is little empathy and communication, it is possible that things are full of misunderstandings.",
+          "love": "unexpected breaks are coming. There is a great need for distance and solitude now, either from you or from your partner, which must be used constructively. If you are single, you may not be interested in new relationships.",
+          "finances": "save and don't waste. Take care of your money as much as you can, avoiding waste and unnecessary expenses, otherwise you may incur debts that will take a lot of time and effort to pay off.",
+          "health": "The sensation of confinement and being trapped can affect the respiratory system, bronchi, lungs, larynx, all of which can be affected.",
+          "spirituality": "Intense moment on an emotional level. The sensations will be strong and maybe not pleasant."
+        }
+      }
     ]
 }
