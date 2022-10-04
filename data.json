@@ -1,5 +1,6 @@
 {    
-    "0": {
+    "card_list": [
+        {
             "card_name": "The Fool",
             "straight_info": {
                 "general": "Novelty indicator; as well as purity and great energy. This card can indicate a new beginning with a deeper spiritual meaning, and is more related to a change of city or job, marriage or new partner.:Other people may not understand or support your new ideas and/or proposals, but if you know you are right, persist and try to help them understand where your reasoning and ideas come from.",
@@ -18,8 +19,7 @@
                 "spirituality": "You let go of a belief system that you previously held for a long time. You have a need to explore new ideas and concepts along paths less traveled. It can also mean that your spiritual journey is on hold for the time being, as you are preoccupied with physical and earthly matters."
             }
         },
-    
-    "1": {
+        {
             "card_name": "The Fool",
             "straight_info": {
                 "general": "You have the need for a new beginning, but there are doubts about making it happen, so you will have a great resistance to start the process. You also act without thinking things through and without considering the consequences.",
@@ -38,4 +38,5 @@
                 "spirituality": "You let go of a belief system that you previously held for a long time. You have a need to explore new ideas and concepts along paths less traveled. It can also mean that your spiritual journey is on hold for the time being, as you are preoccupied with physical and earthly matters."
             }
         }
+    ]
 }

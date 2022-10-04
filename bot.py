@@ -1,4 +1,4 @@
-import random, pyaztro
+import random, pyaztro, json
 from telegram.ext import Updater, CommandHandler
 from telegram import InputMediaPhoto
 
@@ -15,18 +15,26 @@ def start(update, context):
 # Function used to give the user its fortune via tarot card reading
 def get_tarot(update, context):
     global started
-    if started == True:	
+    theme_list = ['general','work','love','finance','health','spirituality']
+    card_meaning = ''
+    if started == True:
         if len(context.args) == 1:
             theme = ' '.join(context.args).lower()
             media_group = []
-            if theme in ['love','money','friendship','work','family']:
+            if theme in theme_list:
+                with open('data.json', 'r') as j:
+                    data = json.loads(j.read())	
                 card_selection = random.sample(range(0,21), 3)
                 for num in card_selection:
                     if random.randint(0, 1) == 0:
-                        media_group.append(InputMediaPhoto(open('good_cards/%d.jpg' % num, 'rb'), caption = 'cards' if num == 0 else ''))
+                        media_group.append(InputMediaPhoto(open('good_cards/%d.jpg' % num, 'rb')))
+                        card_meaning += str(data["card_list"][num]["card_name"]+': '+data["card_list"][num]["straight_info"]["general"])
                     else:
-                        media_group.append(InputMediaPhoto(open('bad_cards/%d.jpg' % num, 'rb'), caption = 'cards' if num == 0 else ''))
+                        media_group.append(InputMediaPhoto(open('bad_cards/%d.jpg' % num, 'rb'), caption = ''))
+                        card_meaning += str(data["card_list"][num]["card_name"]+': '+data["card_list"][num]["reverse_info"]["general"])
+                    card_meaning += '\n\n'
                 context.bot.send_media_group(update.message.chat_id, media = media_group)
+                context.bot.send_message(update.message.chat_id, card_meaning)
             else:
                 context.bot.send_message(update.message.chat_id, 'Your selection needs to match one of the following themes: love, money, work, family')
         elif len(context.args) == 0:
@@ -105,12 +113,12 @@ def ask_sign(update, context):
 
 # Function to inform the user of the bot usage        
 def help(update, context):
-	if started == True:
-    		context.bot.send_message(update.message.chat_id, "- Initialize the bot with /start\n- Select the tarot reading and its theme with /tarot theme (Themes available: love, health, work)\n- Get your horoscope with /horoscope sign\n- Ask what's your astrological sign with /sign birth_month birth_day (ex: August 13)")
+    if started == True:
+        context.bot.send_message(update.message.chat_id, "- Initialize the bot with /start\n- Select the tarot reading and its theme with /tarot theme (Themes available: love, health, work)\n- Get your horoscope with /horoscope sign\n- Ask what's your astrological sign with /sign birth_month birth_day (ex: August 13)")
 
 # Main code        
 def main():
-	TOKEN = ""
+	TOKEN = "5692200430:AAH5CitxWYf5fAAUj97pzusUnh0Sk-4egl0"
 	updater = Updater(TOKEN, use_context=True)
 	dp = updater.dispatcher
 
