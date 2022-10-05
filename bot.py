@@ -118,7 +118,7 @@ def help(update, context):
 
 # Main code        
 def main():
-	TOKEN = "5692200430:AAH5CitxWYf5fAAUj97pzusUnh0Sk-4egl0"
+	TOKEN = ""
 	updater = Updater(TOKEN, use_context=True)
 	dp = updater.dispatcher
 
